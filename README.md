@@ -64,7 +64,7 @@ This project implements a real-time predictive text input system using the **Tri
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- [Datamuse API](https://www.datamuse.com/api/) for dynamic word suggestions
+
 
 ---
 
@@ -72,7 +72,7 @@ This project implements a real-time predictive text input system using the **Tri
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/predictive-text-trie.git
+   git clone https://github.com/kumarswamy2025/Real-Time-Text-Prediction-System.git
    ```
 
 2. Open `index.html` in a browser.
@@ -92,14 +92,17 @@ This project implements a real-time predictive text input system using the **Tri
 
 ## 👨‍💻 Author
 
-**Kumar Swamy**  
-[Portfolio](https://portfolio-frontend-g4v2.onrender.com/) • [GitHub](https://github.com/kumarswamy2025) • [LinkedIn](https://www.linkedin.com/in/kumar-swamy-239623247/)
+Developed with ❤️ by **Kumar Swamy** — a passionate Full Stack Developer with experience in building modern web applications.
+
+- 🌐 [Portfolio](https://portfolio-frontend-g4v2.onrender.com/)
+- 💻 [GitHub](https://github.com/kumarswamy2025)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumar-swamy-239623247/)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share!
+Feel free to use, modify, and share!`
 
 ---
