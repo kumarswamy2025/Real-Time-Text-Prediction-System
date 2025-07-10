@@ -108,3 +108,42 @@ body {
   border-radius: 2rem;
   background-color: var(--color-quartinary);
 }
+
+.footer {
+  background-color: var(--color-quartinary);
+  color: var(--color-secondary);
+  padding: 1.5rem 0;
+  text-align: center;
+  margin-top: 4rem;
+  width: 100%;
+  font-size: 1.6rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-top: 0.2rem solid var(--color-tertiary);
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
+  animation: fadeIn 0.8s ease-in;
+}
+
+.footer__text {
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+
+.footer__text strong {
+  color: var(--color-secondary);
+  transition: color 0.3s ease;
+}
+
+.footer__text strong:hover {
+  color: var(--color-tertiary);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
