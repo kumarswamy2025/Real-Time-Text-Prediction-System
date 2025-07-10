@@ -30,8 +30,10 @@ This project implements a real-time predictive text input system using the **Tri
 ---
 
 ## 📸 Screenshots
+![alt text](src/screenshots/image.png)
 
-> _You can add screenshots here of the live search experience._
+
+![alt text](<src/screenshots/image copy.png>)
 
 ---
 
